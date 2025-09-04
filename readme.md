@@ -3,37 +3,45 @@
 ### LinkedIn: [Jaeseok Park](https://www.linkedin.com/public-profile/settings) Mobile : (+82) 010-8682-2676
 
 ## Summary![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
+My main interest lies at 3DGS, Spatial AI and State estimation. My favourite applications are drone and mobile robot in anything field.
 
-My main interest lies at SLAM(Visual-Inertial, LiDAR-Inertial), visual localization and robotics mathmetics. My favourite applications are autonomous driving and robotics.
+## Education![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.004.png)
+- Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] 2025.02 - Current
+  - RovifyLab Scholarship
+- Tech University Of Korea(TUK) Siheung, South Korea, Electrical Engineering [B.A] 3.14/4.5 2016.03.01 - 2024.02
+    - 2020 Second Semester Grade Scholarship D-1
 
 ## Employment![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
+- Rovify Lab Seoul, South Korea **2023.05 - Current** \
+ **Robotics/SLAM Researcher (Full-time)**
+  - Development Photorealistic Mapping based on 3D Gaussian Splatting.
+    - [GS-LIV-Fusion: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://www.arxiv.org/abs/2507.23273)
+  - Development Multimodal state estimation algorithm.
+    - Created Simulator for mobile robot in various environments.
+    - Created LiDAR Camera extrinsic calibration.
+    - Created LIV SLAM for XR filming equipments and agriculture robot.
+    - Researched Trajectory Optimization.
 
-- Motion2AI Seoul, South Korea Robotics Researcher (Full-time) **2023.01.02 - 2023.02.17**
-
+- Motion2AI Seoul, South Korea **2023.01.02 - 2023.02.17** \
+    **Robotics Researcher (Full-time)**
     - Improvement Pose Graph Optimize performance
         - Created algorithm to generate a pose to marker relative pose using local BA Maintenance of mass-production check application
-
-- Motion2AI Seoul, South Korea Robotics Researcher (Full-time) **2021.02.08 - 2022.08.31**
-
+- Motion2AI Seoul, South Korea **2021.02.08 - 2022.08.31** \
+  **Robotics Researcher (Full-time)**
     - Development server side graph optimization application using Ceres
         - Created a Pose graph optimizer application that runs on the server.
         - Created a pose node addition/delete logic and conduct Covariance tuning to operate in general.
     - Development LiDAR mapping backpack.
         - Building SLAM algorithms and applications that use LiDAR, IMU, and camera to estimate Apriltag's location. Create a GUI using Qt, and use openGL to allow users to view PointCloud and add Constraint (Point to plane) manually to Cost function.
-
     - FAST feature extractor and FAST feature tracker using CUDA
         - Using CUDA, the VIO system can be operated on light edge devices such as Jetson Nano.
         - Created the Feature Extraction Kernel, and use modules in the opencv-contribute repository for image to image feature matching using the sparse optical flow (KLT feature tracker).
-
     - Development firmware and device management application
         - Maintenance of the power management board using the Coretex-m3 MCU (firmware).
-
     - Maintenance C++ Application
-
-- Helper Robotics Seoul, South Korea Intern (Full-time) **2020.12.01 - 2021.02.05**
-    - Development multi robot path planning using Dijkstra algorithm.
-
-## Personal Projects![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.002.png)
+## Selected Papers![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.002.png)
+- [GS-LIV-Fusion: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://www.arxiv.org/abs/2507.23273) (2025 RA-L Under review)
+<!-- ## Personal Projects![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.002.png)
 
 - [SLAM Docker](https://github.com/jaeseok4104/slam-docker)
     - Create Docker Image for SLAM Research
@@ -52,20 +60,21 @@ My main interest lies at SLAM(Visual-Inertial, LiDAR-Inertial), visual localizat
 - [Mobile Robot Control](https://github.com/jaeseok4104/M_robot)
     - Mobile Robot Control uisng joy stick
     - BLDC Motor Control using MODBUS protocol based motor driver Development joy stick controller
-    - Development External PID Contoller for unstable driving of mobile robot Mobile Robot Control Algorithm
+    - Development External PID Contoller for unstable driving of mobile robot Mobile Robot Control Algorithm -->
+
+## Awards & Competitions![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.003.png)
+- [2023 Hilti SLAM Challenge 7th (10%)](https://hilti-challenge.com/leader-board-2023.html)
 
 ## Skills![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.003.png)
-
-- Programming - C++, Firmware side C, CUDA, Python
-- Libraries - ROS, GTSAM, Ceres, Qt, OpenGL, HAL(Firmware)
-- Some skills - SLAM(Visual-Inertial, Lidar-Inertial), MSCKF, Visual localization, Firmware, Nonlinear optimization
-
-## Education![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.004.png)
-
-- Tech University Of Korea(TUK) Siheung, South Korea Electrical Engineering [B.A] 3.14/4.5 2016.03.01 - Present 2020
-    - Second Semester Grade Scholarship D-1
+- Programming
+  - C/C++, CUDA, Shader, Python, MATLAB
+- Libraries
+  - ROS, GTSAM, Ceres, Qt, OpenGL, HAL(Firmware)
+- Some skills
+  - Photorealistic Mapping, SLAM(Multimodal), State estimation, Trajectory Optimization, Firmware
 
 ## Research Experiences![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
-
-- Inteligence Healthcare LAB(IH LAB), Tech University Of Korea(TUK) Siheung, South Korea
-    - Undergraduate research student (Advisor: Eung-Hyuk Lee) 2019.01 - 2020.10
+- Computer Vision and Robotics Lab(CVRL), Kwangwoon University(KWU) Seoul, South Korea
+  - Graduate Research Assistant (Advisor: Soohwan Kim) **2025.02 - Current**
+- Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
+    - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
