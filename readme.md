@@ -13,7 +13,7 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
 
 ## Employment![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
 - Rovify Lab Seoul, South Korea **2023.05 - Current** \
- **Robotics/SLAM Researcher (Full-time)**
+ **Research Engineer (Full-time)**
   - Development of a trajectory generation algorithm for 3DGS map generation
     - Researched Trajectory Optimization.
     - Researched Baysian modeling for directional information.
@@ -81,5 +81,6 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
 
     - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
+
 
 
