@@ -6,9 +6,9 @@
 My main interest lies at Photorealistic Mapping, Spatial AI and State estimation. My favourite applications are robot in challenging environments.
 
 ## Education![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.004.png)
-- Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] 2025.02 - Current
+- Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] **2025.02 - Current**
   - RovifyLab Scholarship
-- Tech University Of Korea(TUK) Siheung, South Korea, Electrical Engineering [B.A] 3.2/4.5 2016.03.01 - 2024.02
+- Tech University Of Korea(TUK) Siheung, South Korea, Electrical Engineering [B.A] 3.2/4.5 **2016.03.01 - 2024.02**
   - 2020 Second Semester Grade Scholarship D-1
 
 ## Employment![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
@@ -83,5 +83,6 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
   - Graduate Research Assistant (Advisor: Soohwan Kim) **2025.02 - Current**
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
   - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
+
 
 
