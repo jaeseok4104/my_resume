@@ -3,25 +3,26 @@
 ### LinkedIn: [Jaeseok Park](https://www.linkedin.com/public-profile/settings) Mobile : (+82) 010-8682-2676
 
 ## Summary![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
-My main interest lies at 3DGS, Spatial AI and State estimation. My favourite applications are drone and mobile robot in anything field.
+My main interest lies at Photorealistic Mapping, Spatial AI and State estimation. My favourite applications are robot in challenging environments.
 
 ## Education![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.004.png)
 - Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] 2025.02 - Current
   - RovifyLab Scholarship
 - Tech University Of Korea(TUK) Siheung, South Korea, Electrical Engineering [B.A] 3.14/4.5 2016.03.01 - 2024.02
-    - 2020 Second Semester Grade Scholarship D-1
+  - 2020 Second Semester Grade Scholarship D-1
 
 ## Employment![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.001.png)
 - Rovify Lab Seoul, South Korea **2023.05 - Current** \
  **Robotics/SLAM Researcher (Full-time)**
+  - Development of a trajectory generation algorithm for 3DGS map generation
+    - Researched Trajectory Optimization.
+    - Researched Baysian modeling for directional information.
   - Development Photorealistic Mapping based on 3D Gaussian Splatting.
     - [GS-LIV-Fusion: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://www.arxiv.org/abs/2507.23273)
   - Development Multimodal state estimation algorithm.
     - Created Simulator for mobile robot in various environments.
     - Created LiDAR Camera extrinsic calibration.
     - Created LIV SLAM for XR filming equipments and agriculture robot.
-    - Researched Trajectory Optimization.
-    - Researched Baysian modeling for directional information(ex. Normal direction)
 
 - Motion2AI Seoul, South Korea **2023.01.02 - 2023.02.17** \
     **Robotics Researcher (Full-time)**
@@ -80,3 +81,4 @@ My main interest lies at 3DGS, Spatial AI and State estimation. My favourite app
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
 
     - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
+
