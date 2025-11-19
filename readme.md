@@ -79,8 +79,4 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
 - Computer Vision and Robotics Lab(CVRL), Kwangwoon University(KWU) Seoul, South Korea
   - Graduate Research Assistant (Advisor: Soohwan Kim) **2025.02 - Current**
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
-
-    - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
-
-
-
+  - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
