@@ -21,6 +21,7 @@ My main interest lies at 3DGS, Spatial AI and State estimation. My favourite app
     - Created LiDAR Camera extrinsic calibration.
     - Created LIV SLAM for XR filming equipments and agriculture robot.
     - Researched Trajectory Optimization.
+    - Researched Baysian modeling for directional information(ex. Normal direction)
 
 - Motion2AI Seoul, South Korea **2023.01.02 - 2023.02.17** \
     **Robotics Researcher (Full-time)**
@@ -77,4 +78,5 @@ My main interest lies at 3DGS, Spatial AI and State estimation. My favourite app
 - Computer Vision and Robotics Lab(CVRL), Kwangwoon University(KWU) Seoul, South Korea
   - Graduate Research Assistant (Advisor: Soohwan Kim) **2025.02 - Current**
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
+
     - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
