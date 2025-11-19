@@ -27,14 +27,17 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
 - [Motion2AI](https://www.youtube.com/watch?v=WevnZ-9m5Kw) Seoul, South Korea **2023.01.02 - 2023.02.17** \
     **Robotics Researcher (Full-time)**
     - Improvement Pose Graph Optimize performance
-        - Created algorithm to generate a pose to marker relative pose using local BA Maintenance of mass-production check application
+        - Created algorithm to generate a pose to marker relative pose using local BA.
+        - Maintenance of mass-production check application.
 - [Motion2AI](https://www.youtube.com/watch?v=WevnZ-9m5Kw) Seoul, South Korea **2021.02.08 - 2022.08.31** \
   **Robotics Researcher (Full-time)**
     - Development server side graph optimization application using Ceres
         - Created a Pose graph optimizer application that runs on the server.
-        - Created a pose node addition/delete logic and conduct Covariance tuning to operate in general.
+        - Created a pose node addition/delete logic and conduct.
+        - Covariance tuning to operate in general.
     - Development LiDAR mapping backpack.
-        - Building SLAM algorithms and applications that use LiDAR, IMU, and camera to estimate Apriltag's location. Create a GUI using Qt, and use openGL to allow users to view PointCloud and add Constraint (Point to plane) manually to Cost function.
+        - Building SLAM algorithms and applications that use LiDAR, IMU, and camera to estimate Apriltag's location.
+        - Create a GUI using Qt, and use openGL to allow users to view PointCloud and add Constraint (Point to plane) manually to Cost function.
     - FAST feature extractor and FAST feature tracker using CUDA
         - Using CUDA, the VIO system can be operated on light edge devices such as Jetson Nano.
         - Created the Feature Extraction Kernel, and use modules in the opencv-contribute repository for image to image feature matching using the sparse optical flow (KLT feature tracker).
@@ -80,3 +83,4 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
   - Graduate Research Assistant (Advisor: Soohwan Kim) **2025.02 - Current**
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
   - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
+
