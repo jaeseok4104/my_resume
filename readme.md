@@ -24,11 +24,11 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
     - Created LiDAR Camera extrinsic calibration.
     - Created LIV SLAM for XR filming equipments and agriculture robot.
 
-- Motion2AI Seoul, South Korea **2023.01.02 - 2023.02.17** \
+- [Motion2AI](https://www.youtube.com/watch?v=WevnZ-9m5Kw) Seoul, South Korea **2023.01.02 - 2023.02.17** \
     **Robotics Researcher (Full-time)**
     - Improvement Pose Graph Optimize performance
         - Created algorithm to generate a pose to marker relative pose using local BA Maintenance of mass-production check application
-- Motion2AI Seoul, South Korea **2021.02.08 - 2022.08.31** \
+- [Motion2AI](https://www.youtube.com/watch?v=WevnZ-9m5Kw) Seoul, South Korea **2021.02.08 - 2022.08.31** \
   **Robotics Researcher (Full-time)**
     - Development server side graph optimization application using Ceres
         - Created a Pose graph optimizer application that runs on the server.
@@ -81,4 +81,5 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
 - Inteligence Healthcare Lab(IH Lab), Tech University Of Korea(TUK) Siheung, South Korea
 
     - Undergraduate Research Assistant (Advisor: Eung-Hyuk Lee) **2019.01 - 2020.10**
+
 
