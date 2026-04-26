@@ -6,7 +6,7 @@
 My main interest lies at Photorealistic Mapping, Spatial AI and State estimation. My favourite applications are robot in challenging environments.
 
 ## Education![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.004.png)
-- Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] **2025.02 - Current**
+- Kwangwoon University(KWU) Seoul, South Korea, AI Convergence [MEng] 4.5/4.5 **2025.03 - Current**
   - RovifyLab Scholarship
 - Tech University Of Korea(TUK) Siheung, South Korea, Electrical Engineering [B.A] 3.2/4.5 **2016.03.01 - 2024.02**
   - 2020 Second Semester Grade Scholarship D-1
@@ -18,7 +18,9 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
     - Researched Trajectory Optimization.
     - Researched Baysian modeling for directional information.
   - Development Photorealistic Mapping based on 3D Gaussian Splatting.
-    - [GS-LIV-Fusion: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://www.arxiv.org/abs/2507.23273)
+    - [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting](https://www.arxiv.org/abs/2507.23273) (Under review)
+    - [GSSeq: Rendered-Reference Sequential Loop Verification for 3D Gaussian Splatting SLAM]
+    - [Voxel wise 3DGS]
   - Development Multimodal state estimation algorithm.
     - Created Simulator for mobile robot in various environments.
     - Created LiDAR Camera extrinsic calibration.
