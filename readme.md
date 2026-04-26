@@ -18,9 +18,7 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
     - Researched Trajectory Optimization.
     - Researched Baysian modeling for directional information.
   - Development Photorealistic Mapping based on 3D Gaussian Splatting.
-    - [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting](https://www.arxiv.org/abs/2507.23273) (Under review)
-    - [GSSeq: Rendered-Reference Sequential Loop Verification for 3D Gaussian Splatting SLAM]
-    - [Voxel wise 3DGS]
+    - [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting](https://www.arxiv.org/abs/2507.23273)
   - Development Multimodal state estimation algorithm.
     - Created Simulator for mobile robot in various environments.
     - Created LiDAR Camera extrinsic calibration.
@@ -47,7 +45,7 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
         - Maintenance of the power management board using the Coretex-m3 MCU (firmware).
     - Maintenance C++ Application
 ## Selected Papers![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.002.png)
-- [GS-LIV-Fusion: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://www.arxiv.org/abs/2507.23273) (2025 RA-L Under review)
+- [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting](https://www.arxiv.org/abs/2507.23273) (2026 IROS Under review)
 <!-- ## Personal Projects![](Aspose.Words.e5a80682-a2b6-4fce-a80e-1ac5c2d2f214.002.png)
 
 - [SLAM Docker](https://github.com/jaeseok4104/slam-docker)
