@@ -18,7 +18,8 @@ My main interest lies at Photorealistic Mapping, Spatial AI and State estimation
     - Researched Trajectory Optimization.
     - Researched Baysian modeling for directional information.
   - Development Photorealistic Mapping based on 3D Gaussian Splatting.
-    - [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting](https://www.arxiv.org/abs/2507.23273)
+    - [LIVE-GS: Online LiDAR-Inertial-Visual State Estimation and Globally Consistent Mapping with 3D Gaussian Splatting(Undrer review)](https://www.arxiv.org/abs/2507.23273)
+    - GSSeq: Rendered-Reference Sequential Loop Verification for UAV 3D Gaussian Splatting SLAM(Under review)
   - Development Multimodal state estimation algorithm.
     - Created Simulator for mobile robot in various environments.
     - Created LiDAR Camera extrinsic calibration.
